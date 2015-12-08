@@ -1,7 +1,7 @@
 name: TallTreePhotography
 favicon: null
-layout_spectrum: 0.6556107338983566
-typography_spectrum: 0.9811565589625388
+layout_spectrum: 0.51096
+typography_spectrum: 0.70537
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#1483d2'
+    - '#060608'
+    - '#b8d6f2'
+    - '#273e5b'
+    - '#ea736a'
   brandStrength: 0.8353405429515988
-  lightness: 0.2065471939276904
-  saturation: 0.39258205122314394
-  rhythmicContrast: 0.6376741202548146
+  lightness: 0.1875
+  saturation: 0.3125
+  rhythmicContrast: 0.75
 purpose: []
