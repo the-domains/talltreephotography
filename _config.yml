@@ -1,7 +1,7 @@
 name: TallTreePhotography
 favicon: null
-layout_spectrum: 0.51096
-typography_spectrum: 0.70537
+layout_spectrum: 1
+typography_spectrum: 0.66101
 title: Photos by Travis Mercier
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#6c6366'
-    - '#060604'
-    - '#fcc894'
-    - '#df7752'
-    - '#693317'
+    - '#ccab79'
+    - '#f7faf1'
+    - '#221b15'
+    - '#956f5f'
+    - '#1fc1b4'
   brandStrength: 0
-  lightness: 0.125
-  saturation: 0.3125
+  lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 0.75
 purpose: []
